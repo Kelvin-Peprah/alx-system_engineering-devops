@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -u | grep -x '.\+' | sort
+sort | uniq -u
